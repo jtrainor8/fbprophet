@@ -17,7 +17,7 @@ _Facebook Profet - Inductory use_
 	anaconda-navigator 	
 -> (opens navigator if successful install) 
 	
--create enviornment
+-create & activate env
 
 	conda create --name <name_of_env> python=3.6
 	
