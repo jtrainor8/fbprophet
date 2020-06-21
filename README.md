@@ -1,6 +1,4 @@
-# fbprophet
-
-_Facebook Profet - Inductory use_
+# Facebook Profet - Inductory use_
 
 -download latest version of anaconda (https://www.anaconda.com/products/individual#linux)
 
