@@ -1,4 +1,5 @@
-# Facebook Profet - Inductory use_
+# Facebook Profet - Inductory use
+Basic intallation instructions follow for a python usage on a linux machine.
 
 -download latest version of anaconda (https://www.anaconda.com/products/individual#linux)
 
