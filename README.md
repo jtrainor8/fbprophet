@@ -49,7 +49,7 @@ _*special note*_
 	
 -run Jupyter Notebook
 
-	juypter notebook
+	jupyter notebook
 	
 	
 
