@@ -51,8 +51,3 @@ _*special note*_
 
 	jupyter notebook
 	
-	
-
-
-
-# fbprophet
