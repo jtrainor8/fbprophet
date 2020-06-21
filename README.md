@@ -14,13 +14,14 @@ _Facebook Profet - Inductory use_
 
 	conda list
 	
-	anaconda-navigator 	->(opens navigator if successful install) 
+	anaconda-navigator 	
+-> (opens navigator if successful install) 
 	
 -create enviornment
 
 	conda create --name <name_of_env> python=3.6
 	
-	conda activate <naame_of_env>
+	conda activate <name_of_env>
 	
 -intall fbpropher using pip and conda-forge
 
