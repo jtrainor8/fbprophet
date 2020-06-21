@@ -27,7 +27,7 @@ Basic intallation instructions follow for a python usage on a linux machine.
 	conda install -c conda-forge fbprophet
 	
 
-# optional:
+# *Optional:*
 
 -install plotly for interractive plots
 
