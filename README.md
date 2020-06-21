@@ -13,7 +13,7 @@ Basic intallation instructions follow for a python usage on a linux machine.
 
 	conda list
 	
-	anaconda-navigator 	
+	anaconda-navigator 
 -> (opens navigator if successful install) 
 	
 -create & activate env
@@ -55,3 +55,4 @@ _*special note*_
 
 
 
+# fbprophet
