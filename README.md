@@ -1,6 +1,6 @@
 # fbprophet
 
-Facebook Profet - Inductory use
+_Facebook Profet - Inductory use_
 
 -download latest version of anaconda (https://www.anaconda.com/products/individual#linux)
 
@@ -27,7 +27,7 @@ Facebook Profet - Inductory use
 	conda install -c conda-forge fbprophet
 	
 
-optional:
+_optional:_
 
 -install plotly for interractive plots
 
@@ -38,7 +38,7 @@ optional:
 	conda install "notebook>=5.3" "ipywidgets>=7.2"
 	
 
-*special note*
+_*special note*_
 
 
 -if using a juypter notebook with a conda enviornment you need to include the env, look up pathing it.
@@ -46,6 +46,11 @@ optional:
 	conda install -c anaconda ipykernel
 	
 	python -m ipykernel install --user --name=nameOfEnv
+	
+-run Jupyter Notebook
+
+	juypter notebook
+	
 	
 
 
